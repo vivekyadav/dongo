@@ -1,0 +1,10 @@
+*.pyc
+*~
+.hg*
+.db*
+.pydevproject
+.settings
+.project
+django_mongodb_engine.egg-info
+build
+.build
