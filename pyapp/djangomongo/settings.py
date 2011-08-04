@@ -13,8 +13,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django_mongodb_engine', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
         'NAME': 'mydb',                      # Or path to database file if using sqlite3.
-        'USER': 'suho',                      # Not used with sqlite3.
-        'PASSWORD': 'samsung',#LiMsWFpnrIdUM2BjuwWQ',                  # Not used with sqlite3.
+        'USER': 'root',                      # Not used with sqlite3.
+        'PASSWORD': 'LiMsWFpnrIdUM2BjuwWQ',                  # Not used with sqlite3.
         'HOST': 'f27f9241.dotcloud.com',                      # Set to empty string for localhost. Not used with sqlite3.
         'PORT': '11640',                      # Set to empty string for default. Not used with sqlite3.
     }
